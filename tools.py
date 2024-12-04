@@ -12,6 +12,7 @@ MKDIR = 'mkdir -p'
 CPDIR = 'cp -r'
 CPFILE = 'cp'
 RM = 'rm -f'
+
 MV = 'mv'
 CMAKE_RESET = 'cmake ..'
 CMAKE_BUILD = 'cmake --build .'
@@ -36,7 +37,6 @@ if platform.system() == 'Windows':
 elif platform.system() == 'Darwin':
     OS = MACOS
     # Same as Linux
-
 
 def reset_project():
     print('Resetting project...' )
