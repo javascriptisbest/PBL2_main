@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-update_disconnected.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-patch_disconnected.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\3f160705f44037f7ac66eadbd902b19d\ftxui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\72c7bc300faf0353e7b5ebe6426795f8\ftxui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\6fe66cde5c9e8e97148a61666cfa8c81\ftxui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\edge ngu\ppl2\PBL2-main\build\_deps\ftxui-subbuild\CMakeFiles\ftxui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2C2F9D35-5A11-3367-8315-ECF092591D8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

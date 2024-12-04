@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/6fe66cde5c9e8e97148a61666cfa8c81/ftxui-populate.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/72c7bc300faf0353e7b5ebe6426795f8/ftxui-populate-complete.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-build.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-configure.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-download.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-install.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-mkdir.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-patch_disconnected.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-test.rule
+D:/edge ngu/ppl2/PBL2-main/build/_deps/ftxui-subbuild/CMakeFiles/3f160705f44037f7ac66eadbd902b19d/ftxui-populate-update_disconnected.rule
